@@ -2,7 +2,7 @@
 
 A modern developer portfolio showcasing my work in AI, machine learning, and full-stack development.
 
-🔗 Live: https://damathia-portfolio.vercel.app  
+🔗 Live: https://shauryadamathia.pythonanywhere.com/
 
 ---
 
