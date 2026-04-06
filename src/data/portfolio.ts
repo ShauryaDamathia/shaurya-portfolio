@@ -45,7 +45,7 @@ export interface PortfolioData {
 
 export const portfolioData: PortfolioData = {
   name: "Shaurya Damathia",
-  role: "Full-Stack and Data Scientest Enthusiast",
+  role: "Full-Stack and Data Scientist Enthusiast",
   about:
     "I’m a Computer Engineering undergraduate passionate about building end-to-end ML, full-stack, and cybersecurity-driven systems. I enjoy turning ideas into scalable, real-world solutions deployed across cloud platforms. When I’m not building systems, you’ll probably find me on the basketball court or planning my next move on a chessboard.",
   profileImage: "/images/My_Image.jpeg",
